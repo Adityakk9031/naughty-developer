@@ -1,5 +1,10 @@
 # Naughty Developer — Automated DXF to 3D Model, Amenities, Interiors & 360° Virtual Tour (Level 1 + Level 2)
 
+<p align="center">
+  <video src="assets/demo.webm" controls muted width="100%" poster="viewer/exteriors/shot_1_eye_level_day.png"></video>
+</p>
+<p align="center"><sub>Demo: interactive 3D building, 360° tour and stills (<a href="assets/demo.webm">download / play full screen</a>)</sub></p>
+
 An end-to-end automated architectural pipeline that reads the municipal submission drawing (`drawing.dxf` / `.dwg`) for **Naughty Developer** (a 7-storey residential tower in a dense urban setting with basement + stilt parking, $2 \times \text{4BHK}$ flats per floor, entrance lobby, landscaped drive, and rooftop terrace amenities) and generates everything 100% by code:
 
 1. **Clean 2D & Room Geometry (`outputs/extracted_geometry.json`)** — Reconstructed closed polygons for Basement parking (slab, columns, curved ramp, 2 car bays, 20 two-wheeler bays), Ground Floor Stilt Parking (5 car bays, 15 two-wheeler bays) & Entrance Lobby, 1st–7th Typical Floor slabs, 23 structural columns, walls, $0.60\text{ m}$ projections, windows, sliding doors, wall-snapped room bounds for all rooms in **Type A ($160.05\text{ m}^2$)** and **Type B ($143.18\text{ m}^2$)** flats, Terrace Amenity Zones, and Site Layout (plot boundary, $18\text{ m}$ road, 25 trees).
