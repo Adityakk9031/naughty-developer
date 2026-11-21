@@ -1,9 +1,9 @@
 # Naughty Developer — Automated DXF to 3D Model, Amenities, Interiors & 360° Virtual Tour (Level 1 + Level 2)
 
 <p align="center">
-  <video src="assets/demo.webm" controls muted width="100%" poster="viewer/exteriors/shot_1_eye_level_day.png"></video>
+  <video src="https://github.com/Adityakk9031/naughty-developer/raw/main/assets/demo.mp4" controls muted width="100%" poster="https://github.com/Adityakk9031/naughty-developer/raw/main/viewer/exteriors/shot_1_eye_level_day.png"></video>
 </p>
-<p align="center"><sub>Demo: interactive 3D building, 360° tour and stills (<a href="assets/demo.webm">download / play full screen</a>)</sub></p>
+<p align="center"><sub>Demo: interactive 3D building, 360° tour and stills (<a href="https://github.com/Adityakk9031/naughty-developer/raw/main/assets/demo.mp4">open video</a>)</sub></p>
 
 An end-to-end automated architectural pipeline that reads the municipal submission drawing (`drawing.dxf` / `.dwg`) for **Naughty Developer** (a 7-storey residential tower in a dense urban setting with basement + stilt parking, $2 \times \text{4BHK}$ flats per floor, entrance lobby, landscaped drive, and rooftop terrace amenities) and generates everything 100% by code:
 
